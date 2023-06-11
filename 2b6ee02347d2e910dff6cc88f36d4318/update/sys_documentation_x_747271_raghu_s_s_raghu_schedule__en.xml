@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="raghu_schedule" language="en" table="x_747271_raghu_s_s_raghu_schedule">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>raghu_schedule</label>
+            <language>en</language>
+            <name>x_747271_raghu_s_s_raghu_schedule</name>
+            <plural>raghu_schedules</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-25 08:51:01</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>raghu_schedule</sys_name>
+            <sys_package display_value="Raghu's Scheduler" source="x_747271_raghu_s_s">2b6ee02347d2e910dff6cc88f36d4318</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Raghu's Scheduler">2b6ee02347d2e910dff6cc88f36d4318</sys_scope>
+            <sys_update_name>sys_documentation_x_747271_raghu_s_s_raghu_schedule__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-25 08:51:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c41fe06347d2e910dff6cc88f36d43bb" label="raghu_schedule" max_length="40" name="x_747271_raghu_s_s_raghu_schedule" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Time Allocation" max_length="40" name="time_allocation" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Topic Name" max_length="40" name="topic_name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
